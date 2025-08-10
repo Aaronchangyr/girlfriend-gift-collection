@@ -31,7 +31,7 @@ var config = {
    */
   imgs: {
     送给我: "./imgs/songxinxin.jpeg",
-    "心爱的老婆（宝宝一号）": "./imgs/1.jpg",
+    "最心爱的老婆（宝宝一号）": "./imgs/1.jpg",
     今天是你的生日: "./imgs/2.jpg",
     这是我们在一起的: "./imgs/3.jpg",
     "第二个生日！": "./imgs/4.jpg",
